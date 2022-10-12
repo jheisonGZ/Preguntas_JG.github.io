@@ -1,8 +1,8 @@
 const yesBtn = document.querySelector('#yesBtn');
 
 yesBtn.addEventListener('click',function () {
-    alert('YO TAMBIEN A TI')
-    alert('SEE MUY FELIZ')
+    alert('YO TAMBIEN LO QUIERO!!!')
+    alert('TE QUIERO ALEXANDRA GOMEZ')
 });
 
 const noBtn = document.querySelector('#noBtn');
