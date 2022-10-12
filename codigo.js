@@ -1,8 +1,8 @@
 const yesBtn = document.querySelector('#yesBtn');
 
 yesBtn.addEventListener('click',function () {
-    alert('YO TAMBIEN LO QUIERO!!!')
-    alert('QUIERO HACERTE MIA ALEXANDRA GOMEZ')
+    alert('YO TAMBIEN QUIERO ESCRIBIR UNA BONITA HISTORIA CON TIGO!!')
+    alert('MI PRINCESA DE CUENTOS , ALEXANDRA GOMEZ')
 });
 
 const noBtn = document.querySelector('#noBtn');
