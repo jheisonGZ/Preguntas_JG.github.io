@@ -2,7 +2,7 @@ const yesBtn = document.querySelector('#yesBtn');
 
 yesBtn.addEventListener('click',function () {
     alert('YO TAMBIEN LO QUIERO!!!')
-    alert('TE QUIERO ALEXANDRA GOMEZ')
+    alert('QUIERO HACERTE MIA ALEXANDRA GOMEZ')
 });
 
 const noBtn = document.querySelector('#noBtn');
